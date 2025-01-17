@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Exam Questions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            background-color: #007BFF;
+            color: white;
+            padding: 15px;
+            margin: 0 0 20px 0;
+        }
+        .questions-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .question {
+            background: white;
+            padding: 20px;
+            margin: 10px 0;
+            border: 2px solid #007BFF;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .options {
+            margin: 15px 0;
+            font-size: 16px;
+        }
+        button {
+            background: blue; /* Button color */
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 16px;
+            display: block;
+            margin: 10px 0;
+        }
+        button:hover {
+            background: darkblue; /* Darker blue on hover */
+        }
+        .answer {
+            display: none;
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .justification {
+            font-size: 14px;
+            color: #555;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Final Exam Questions</h1>
+    <div class="questions-container" id="questions-list"></div>
+
+    <script>
+        fetch('questions.json')
+            .then(response => response.json())
+            .then(questions => {
+                const questionsList = document.getElementById('questions-list');
+                questions.forEach((q, index) => {
+                    const optionsHtml = q.options ? q.options.map(option => `<p>${option}</p>`).join('') : '';
+                    questionsList.innerHTML += `
+                        <div class="question">
+                            <p>${index + 1}. ${q.question}</p>
+                            <div class="options">${optionsHtml}</div>
+                            <button onclick="showAnswer(${index})">Show Answer</button>
+                            <p class="answer" id="answer-${index}">ANS: ${q.answer}</p>
+                            ${q.justification ? `<p class="justification">Justification: ${q.justification}</p>` : ''}
+                        </div>
+                    `;
+                });
+            });
+
+        function showAnswer(index) {
+            const answerDiv = document.getElementById(`answer-${index}`);
+            answerDiv.style.display = 'block';
+        }
+    </script>
+</body>
+</html>

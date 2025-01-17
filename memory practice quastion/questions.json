@@ -1,0 +1,248 @@
+[
+    {
+        "question": "What is the correct answer to this question?",
+        "options": [
+            "A. It is extinction",
+            "B. It is stimulus discrimination",
+            "C. It is stimulus generalization",
+            "D. It is spontaneous recovery"
+        ],
+        "answer": "D. It is spontaneous recovery"
+    },
+    {
+        "question": "Salesman paid based on the numbers of goods he sold. The salesman is paid on.......",
+        "options": [
+            "A. It is fixed Interval Schedule",
+            "B. It is variable Interval Schedule",
+            "C. It is fixed-ratio schedules",
+            "D. It is variable-Ratio Schedule"
+        ],
+        "answer": "D. It is variable-Ratio Schedule"
+    },
+    {
+        "question": "Which of the following is NOT a process of memory?",
+        "options": [
+            "A) Encoding",
+            "B) Storage",
+            "C) Perception",
+            "D) Retrieval"
+        ],
+        "answer": "C) Perception"
+    },
+    {
+        "question": "What is the capacity of short-term memory as proposed by George Miller?",
+        "options": [
+            "A) 3 ± 1",
+            "B) 5 ± 2",
+            "C) 7 ± 2",
+            "D) 10 ± 3"
+        ],
+        "answer": "C) 7 ± 2"
+    },
+    {
+        "question": "Which type of memory involves conscious recollection of facts?",
+        "options": [
+            "A) Procedural Memory",
+            "B) Semantic Memory",
+            "C) Implicit Memory",
+            "D) Sensory Memory"
+        ],
+        "answer": "B) Semantic Memory"
+    },
+    {
+        "question": "Which of the following is a type of non-declarative memory?",
+        "options": [
+            "A) Semantic Memory",
+            "B) Procedural Memory",
+            "C) Episodic Memory",
+            "D) Explicit Memory"
+        ],
+        "answer": "B) Procedural Memory"
+    },
+    {
+        "question": "What type of memory is involved in remembering how to ride a bike?",
+        "options": [
+            "A) Declarative Memory",
+            "B) Sensory Memory",
+            "C) Implicit Memory",
+            "D) Short-term Memory"
+        ],
+        "answer": "C) Implicit Memory"
+    },
+    {
+        "question": "Which of the following best defines forgetting?",
+        "options": [
+            "A) The loss of information from short-term memory",
+            "B) The inability to retrieve information from long-term memory",
+            "C) The selective encoding of information",
+            "D) The complete erasure of memories"
+        ],
+        "answer": "B) The inability to retrieve information from long-term memory"
+    },
+    {
+        "question": "Hermann Ebbinghaus is known for his research on:",
+        "options": [
+            "A) Memory processes",
+            "B) The serial position effect",
+            "C) Forgetting",
+            "D) Motivation in learning"
+        ],
+        "answer": "C) Forgetting"
+    },
+    {
+        "question": "The decay theory suggests that:",
+        "options": [
+            "A) Memories are replaced by new information",
+            "B) Memory traces fade with time",
+            "C) Emotional states affect recall",
+            "D) Similar information interferes with retrieval"
+        ],
+        "answer": "B) Memory traces fade with time"
+    },
+    {
+        "question": "What type of interference occurs when old memories disrupt the recall of new information?",
+        "options": [
+            "A) Retroactive Interference",
+            "B) Proactive Interference",
+            "C) Motivated Forgetting",
+            "D) Cue Dependent Forgetting"
+        ],
+        "answer": "B) Proactive Interference"
+    },
+    {
+        "question": "Which theory posits that new information can displace old information in memory?",
+        "options": [
+            "A) Motivated Forgetting",
+            "B) Decay Theory",
+            "C) Interference Theory",
+            "D) Displacement Theory"
+        ],
+        "answer": "D) Displacement Theory"
+    },
+    {
+        "question": "True or False: Long-term memory has a practical limit on capacity.",
+        "options": [
+            "A) True",
+            "B) False"
+        ],
+        "answer": "B) False",
+        "justification": "Long-term memory is believed to have no practical limits on capacity."
+    },
+    {
+        "question": "True or False: Chunking increases the capacity of short-term memory.",
+        "options": [
+            "A) True",
+            "B) False"
+        ],
+        "answer": "A) True",
+        "justification": "Chunking allows individuals to group information into larger units, making it easier to remember more information."
+    },
+    {
+        "question": "True or False: Sensory memory can hold information for several minutes.",
+        "options": [
+            "A) True",
+            "B) False"
+        ],
+        "answer": "B) False",
+        "justification": "Sensory memory retains information for a very brief period, typically less than a few seconds."
+    },
+    {
+        "question": "True or False: Information in long-term memory is often forgotten because it is never encoded properly.",
+        "options": [
+            "A) True",
+            "B) False"
+        ],
+        "answer": "A) True",
+        "justification": "If information is not encoded properly, it may not be stored in long-term memory."
+    },
+    {
+        "question": "True or False: The capacity of sensory memory is unlimited.",
+        "options": [
+            "A) True",
+            "B) False"
+        ],
+        "answer": "B) False",
+        "justification": "Sensory memory has a very brief duration and is limited to the amount of sensory information it can hold at one time."
+    },
+    {
+        "question": "True or False: Forgetting can be beneficial for mental health.",
+        "options": [
+            "A) True",
+            "B) False"
+        ],
+        "answer": "A) True",
+        "justification": "Forgetting can help individuals move on from traumatic experiences and reduce mental clutter."
+    },
+    {
+        "question": "What is the serial position effect? Explain its significance in memory recall.",
+        "answer": "The serial position effect refers to the tendency of individuals to recall the first and last items of a list better than those in the middle. This effect highlights how memory retrieval can be influenced by the position of information during encoding."
+    },
+    {
+        "question": "Describe the difference between episodic and semantic memory.",
+        "answer": "Episodic memory involves recollection of personal experiences and specific events, while semantic memory involves general knowledge and facts that are not tied to personal experience."
+    },
+    {
+        "question": "What is the role of overlearning in memory retention?",
+        "answer": "Overlearning involves practicing material beyond initial mastery, which strengthens memory traces and enhances retention."
+    },
+    {
+        "question": "Explain how health can influence memory processes.",
+        "answer": "Good health supports cognitive function, allowing for better retention and recall of information, while poor health can impair memory performance."
+    },
+    {
+        "question": "What is the impact of sleep on memory consolidation?",
+        "answer": "Sleep helps consolidate memories by strengthening neural connections formed during learning, leading to improved recall."
+    },
+    {
+        "question": "The process of __________ involves transforming sensory input into a form usable for memory.",
+        "answer": "Encoding"
+    },
+    {
+        "question": "__________ memory is often referred to as 'working memory' due to its role in actively processing information.",
+        "answer": "Short-term"
+    },
+    {
+        "question": "Fill in the blank: The __________ effect explains why we remember the first and last items on a list better than the middle items.",
+        "answer": "Serial Position"
+    },
+    {
+        "question": "Fill in the blank: _________ memory refers to the knowledge of facts and concepts that can be verbally communicated.",
+        "answer": "Declarative"
+    },
+    {
+        "question": "Scenario: John studies a list of vocabulary words for a test. He notices he remembers the first few and the last few words best. What phenomenon is John experiencing, and how does it relate to memory processes?",
+        "answer": "John is experiencing the serial position effect. This phenomenon relates to memory processes by demonstrating how the position of information affects recall, with better retention for items at the beginning and end of a list."
+    },
+    {
+        "question": "Scenario: Maria has difficulty recalling a phone number she just heard. Which phase of memory is she struggling with and why?",
+        "answer": "Maria is struggling with retrieval. If she did not rehearse or encode the number effectively, it may not be accessible when she tries to recall it."
+    },
+    {
+        "question": "How can teachers apply knowledge of memory processes in their teaching methods?",
+        "answer": "Teachers can use varied instructional strategies, such as active learning, frequent reviews, and real-life applications, to enhance encoding and retrieval in students."
+    },
+    {
+        "question": "Evaluate the impact of technology on memory processes in students today.",
+        "answer": "Technology can provide tools for better organization and retrieval (like apps), but it may also lead to over-reliance on external sources, potentially diminishing internal memory skills."
+    },
+    {
+        "question": "Scenario: Alex studied for his history exam in his bedroom but struggled to recall the information during the test, which was held in a different classroom. Which theory of memory does this scenario illustrate?",
+        "answer": "Context-Dependent Memory."
+    },
+    {
+        "question": "Scenario: Jessie is attempting to remember a 10-digit phone number but can only recall the first three digits after a few seconds. What concept from memory theory explains Jessie's difficulty?",
+        "answer": "Working Memory Capacity."
+    },
+    {
+        "question": "Scenario: During a therapy session, Mark vividly recalls the details of a traumatic event from his childhood. Which theory of memory is demonstrated by Mark's recall?",
+        "answer": "Emotional Memory."
+    },
+    {
+        "question": "Scenario: In a study group, Sara remembers the first and last items on a list of terms better than those in the middle. What memory phenomenon is Sara experiencing?",
+        "answer": "The Serial Position Effect."
+    },
+    {
+        "question": "Scenario: Kevin uses the acronym 'HOMES' to remember the Great Lakes: Huron, Ontario, Michigan, Erie, and Superior. Which memory strategy is Kevin employing?",
+        "answer": "Mnemonic Devices."
+    }
+  ]
